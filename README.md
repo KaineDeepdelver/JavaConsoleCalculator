@@ -1,2 +1,11 @@
-# JavaConsoleCalculator
-A simple Java console-based calculator application demonstrating object-oriented programming concepts, input handling, and basic arithmetic operations. Includes multiple implementations for learning and comparison.
+# Java Console Calculator
+
+A simple console-based calculator written in Java. This project demonstrates basic Java programming concepts, object-oriented design, and console input handling.
+
+## Features
+
+- Perform basic arithmetic operations: addition, subtraction, multiplication, division.
+- Two different implementations showcasing variations in design:
+  - `ConsoleCalculatorJavaEdition`
+  - `CalculatorJavaEdition`
+- Console-based interaction for quick testing and learning.
